@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-local",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "expo-server-sdk": "^3.6.0",
+    "express": "^4.17.1",
+    "firebase": "^7.21.1",
+    "firebase-admin": "^9.2.0",
+    "http": "0.0.1-security",
+    "node-media-server": "^2.2.4",
+    "path": "^0.12.7"
+  }
+}
